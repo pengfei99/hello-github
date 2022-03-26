@@ -14,4 +14,4 @@ for no fast word.
 
 working on some thing, don't want to commit, finish now
 
-add some line in local
+add some code in local
