@@ -7,3 +7,5 @@ update to version 3
 update to version 4
 
 update to version 5
+
+This line is updated in feature/conflict branch
