@@ -16,3 +16,5 @@ working on some thing, don't want to commit, finish now
 
 add some code in local and from remote
 
+release app version 1.0.0
+
